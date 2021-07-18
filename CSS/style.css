@@ -3,9 +3,6 @@ h6 {
     font-size: 10px;
   }
   .jumbotron {
-    color: white;
-    font-weight: bold;
-  }
-  body {
-    background-color: lightgrey;
+    background-image: url("../images/May1_2020_UnivLeeds_eColi.jpg");
+    background-size: cover;
   }
