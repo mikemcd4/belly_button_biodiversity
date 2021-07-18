@@ -4,5 +4,6 @@ h6 {
   }
   .jumbotron {
     background-image: url("../images/May1_2020_UnivLeeds_eColi.jpg");
-    background-size: cover;
-  }
+    color:white;
+    -webkit-text-stroke-color: black;
+}
